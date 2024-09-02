@@ -1,0 +1,100 @@
+{
+    "resources_path": "./resources/",
+    "recent_path_0": "",
+    "recent_path_1": "",
+    "recent_path_2": "",
+    "image_filetypes": [
+        [
+            "tif",
+            "*.tif"
+        ],
+        [
+            "tiff",
+            "*.tiff"
+        ],
+        [
+            "png",
+            "*.png"
+        ],
+        [
+            "jpg",
+            "*.jpg"
+        ],
+        [
+            "jpeg",
+            "*.jpeg"
+        ],
+        [
+            "bmp",
+            "*.bmp"
+        ]
+    ],
+    "accepted_formats": [
+        "tif",
+        "tiff",
+        "png",
+        "jpg",
+        "jpeg",
+        "bmp"
+    ],
+    "rgb": "rgb",
+    "dip": "dip",
+    "msk": "msk",
+    "drwmsk": "drwmsk",
+    "KOL": "KOL",
+    "hsv": "hsv",
+    "diphsv": "diphsv",
+    "obs": "obs",
+    "drwobs": "drwobs",
+    "int": "int",
+    "drwint": "drwint",
+    "max_width": 32000,
+    "max_height": 6666,
+    "max_pixels": 213312000,
+    "force_grayscale_dip": false,
+    "keep_outline_size": 3,
+    "interpolation_type": 0,
+    "warn_about_resize": true,
+    "exaggerate_vertically_by": 1.0,
+    "pan_step": 50,
+    "starting_rgb_path": "./outcrop/ExportPanel00001_RGB.tif",
+    "starting_dip_path": "./outcrop/ExportPanel00001_Dip.tif",
+    "blank_image_path": "\u00a7blank_image_path\u00a7",
+    "plugin_modules": [
+        [
+            "rb_plugin_standard",
+            "plugin_standard"
+        ],
+        [
+            "rb_plugin_rock_clean",
+            "plugin_rock_clean"
+        ]
+    ],
+    "blank_image_colour": [
+        0,
+        0,
+        0
+    ],
+    "blank_mask_colour": 127,
+    "blank_interp_colour": [
+        0,
+        0,
+        0
+    ],
+    "blank_mouse_over": [
+        0,
+        0,
+        0
+    ],
+    "view": 1,
+    "show_explorer": false,
+    "draw_size": 64,
+    "draw_size_max": 640,
+    "draw_size_shrink": 0.8,
+    "draw_size_grow": 1.2,
+    "dark_theme": true,
+    "button_tool_width": 40,
+    "button_tool_height": 40,
+    "button_layout_width": 40,
+    "button_layout_height": 40
+}
